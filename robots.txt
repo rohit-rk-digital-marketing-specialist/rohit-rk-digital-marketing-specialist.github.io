@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rohit-rk-digital-marketing-specialist.github.io/sitemap.xml

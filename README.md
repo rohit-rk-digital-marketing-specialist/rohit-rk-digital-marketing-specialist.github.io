@@ -1,34 +1,17 @@
-# Rohit Radhakrishnan — SEO Portfolio
+# Rohit Radhakrishnan — SEO, AEO & Digital Growth Portfolio
 
-A fast, responsive static portfolio prepared for GitHub Pages. No framework, build command or paid hosting is required.
+A responsive static portfolio hosted on GitHub Pages. The public copy and metrics are grounded in Rohit's verified Career Facts record.
 
-## Before publishing
+## Files
 
-1. Create an `assets` folder.
-2. Add the final two-page CV as `assets/Rohit_Radhakrishnan_CV.pdf`.
-3. Review the career statements in `index.html` against the latest verified Master CV/Career Facts file.
-4. Replace or remove any claim you do not want publicly disclosed.
-5. Test the email and LinkedIn links.
+- `index.html` — portfolio content and metadata
+- `styles.css` — responsive visual system
+- `script.js` — current footer year
+- `Rohit_Radhakrishnan_CV.pdf` — recruiter-facing CV
+- `robots.txt` and `sitemap.xml` — crawl guidance
+- `404.html` — custom error page
+- `favicon.svg` — browser icon
 
-## Publish on GitHub Pages
+## Updating the portfolio
 
-1. Create a GitHub account, if needed.
-2. Create a **public** repository named `YOUR-USERNAME.github.io`.
-3. Upload `index.html`, `styles.css`, `script.js`, this README, and the `assets` folder to the repository root.
-4. Open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select the `main` branch and `/ (root)`, then save.
-7. The portfolio will appear at `https://YOUR-USERNAME.github.io/` after GitHub finishes deployment.
-
-## Optional upgrades
-
-- Add a professional portrait only if it is natural and current.
-- Add individual evidence pages for each case study.
-- Add a custom Open Graph image for LinkedIn sharing.
-- Connect a custom domain later; it is not required at launch.
-- Add GA4 only after considering consent/privacy requirements for the audiences you expect.
-
-## Editing
-
-All visible content is in `index.html`. Colours and layout are controlled by variables at the top of `styles.css`.
-
+Preserve the verified metric definitions and limitations. Do not add client names, tools, outcomes or responsibilities unless they are confirmed in the latest Career Facts record.
