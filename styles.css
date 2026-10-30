@@ -55,6 +55,7 @@ h3 { line-height: 1.25; }
 .principles { display: flex; flex-wrap: wrap; gap: .65rem; margin-top: 2rem; }
 .principles span, .tool-cloud span { padding: .55rem .75rem; color: var(--accent-soft); border: 1px solid var(--line); font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; }
 .case-list { border-top: 1px solid var(--line); }
+#case-studies { padding-bottom: clamp(2.5rem, 4vw, 4rem); }
 .case-study { border-bottom: 1px solid var(--line); }
 .case-study summary { min-height: 132px; padding: 1.5rem 0; display: grid; grid-template-columns: 52px 1fr auto; gap: 1.5rem; align-items: center; cursor: pointer; list-style: none; }
 .case-study summary::-webkit-details-marker { display: none; }
